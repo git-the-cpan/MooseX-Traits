@@ -1,5 +1,8 @@
 Revision history for MooseX-Traits
 
+0.13      2015-08-16 04:10:59Z
+        - update some distribution tooling
+
 0.12      2013-11-13 07:21:32Z
         - removed use of deprecated Class::MOP::load_class
         - repository migrated from shadowcat to the github moose organization
